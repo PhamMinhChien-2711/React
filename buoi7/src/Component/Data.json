@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Chien",
+        "tel":"012313",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"Phan van Long",
+        "tel":"012313",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Nguyen tan trung",
+        "tel":"012313",
+        "Permission":2
+    },
+    {
+        "id":4,
+        "name":"Loc thanh cong",
+        "tel":"012313",
+        "Permission":1
+    },
+    {
+        "id":5,
+        "name":"Pham ngoc thach",
+        "tel":"012313",
+        "Permission":3
+    }
+]
